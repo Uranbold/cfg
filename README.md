@@ -194,7 +194,8 @@
 		zoom_sensitivity_ratio 			"1"
                 r_fullscreen_gamma              "2.2"
                 cl_usenewbob 0
-
+		bind "MOUSE_X" "yaw"
+		bind "MOUSE_Y" "pitch"
 
 
 		//	[ Echo ]
